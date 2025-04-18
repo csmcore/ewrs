@@ -1,0 +1,7 @@
+package app.ewarehouse.entity;
+
+public enum AocRemarksStatus {
+
+	FORWARDED_TO_INSPECTOR,
+	 DEFERRED, FORWARDED_TO_OIC, FORWARDED_TO_APPROVER, FORWARDED_TO_CEO, ACCEPTED, REJECTED ;
+}
